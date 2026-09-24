@@ -16,7 +16,7 @@ font-size = 15
 
 macos-option-as-alt = left
 cursor-style = block
-cursor-style-blink = false
+cursor-style-blink = true
 mouse-scroll-multiplier = 1.5
 mouse-hide-while-typing = true
 
