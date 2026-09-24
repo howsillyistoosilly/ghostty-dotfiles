@@ -19,8 +19,8 @@ function hue-theme -d "Switch the Hue theme across shell, tmux, Ghostty, Neovim,
         return 0
     end
 
-    if not contains -- $mood mua huong cung
-        echo "usage: hue-theme <mua|huong|cung>" >&2
+    if not contains -- $mood mua huong cung burgundy burgundy
+        echo "usage: hue-theme <mua|huong|cung|burgundy>" >echo "usage: hue-theme <mua|huong|cung|burgundy>" >echo "usage: hue-theme <mua|huong|cung>" >&222
         return 2
     end
 

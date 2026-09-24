@@ -4,6 +4,8 @@ Personal dotfiles, for my own use only.
 
 Forked from [crafts69guy/.dotfiles](https://github.com/crafts69guy/.dotfiles) — all credit for the original setup goes to them.
 
+Includes a custom `burgundy` Hue theme mood (red/wine tones) added on top of the original `mua`, `huong`, and `cung` moods — switch with `hue-theme burgundy`.
+
 ## Setup
 
 ```bash
